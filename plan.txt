@@ -1,0 +1,6 @@
+Main page
+    +1. Header menu
+    +2. Cool background
+    +3. Skills
+    4. Short description of the carpenters
+    5. Footer

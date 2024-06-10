@@ -1,25 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Header from "./Components/HeaderMenu.js";
+import Info from "./Components/Info.js";
+import Footer from "./Components/Footer.js";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header></Header>
+      <Info />
+      <Footer />
     </div>
   );
 }
+
+function AddItem(props) {
+  const smth = props.text;
+  let wtf = "This is random text...";
+  wtf = props.number + " For " + props.text;
+
+  return (
+    <form>
+      <h2>{wtf}</h2>
+      <label for="text-form">Type something: </label>
+      <input id="text-form" value={smth} type="text" />
+    </form>
+  );
+}
+
+AddItem.defaultProps = {
+  number: 3,
+};
 
 export default App;
