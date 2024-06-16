@@ -19,7 +19,6 @@ function Header() {
       >
         <ul className="navbar-nav">
           <HeaderButton text="Home" />
-          <HeaderButton text="Previous work" />
         </ul>
         <div className="ml-auto">
           <ul className="navbar-nav">
