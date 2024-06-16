@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/inventory/static/css/main.caad9d92.css",
+    "main.js": "/inventory/static/js/main.7ce93812.js",
+    "static/media/people-background.jpg": "/inventory/static/media/people-background.c6b2e41c7936a6d04c9d.jpg",
+    "static/media/stock (9).jpg": "/inventory/static/media/stock (9).023684e0a23cc7b2c12e.jpg",
+    "static/media/stock (1).jpg": "/inventory/static/media/stock (1).d45d9f075034b14062e3.jpg",
+    "static/media/stock (7).jpg": "/inventory/static/media/stock (7).9b89864e9ce9c8b054bb.jpg",
+    "static/media/stock (8).jpg": "/inventory/static/media/stock (8).ec766a791d828e2454ea.jpg",
+    "static/media/stock (10).jpg": "/inventory/static/media/stock (10).a34dfabb80b73aa6c003.jpg",
+    "static/media/stock (5).jpg": "/inventory/static/media/stock (5).44c9df698bce969e4cb4.jpg",
+    "static/media/stock (2).jpg": "/inventory/static/media/stock (2).45de6f0eb3a181e6564c.jpg",
+    "static/media/stock (4).jpg": "/inventory/static/media/stock (4).d19421088df9997566be.jpg",
+    "static/media/stock (6).jpg": "/inventory/static/media/stock (6).86443471d385af2d5db9.jpg",
+    "static/media/stock (3).jpg": "/inventory/static/media/stock (3).d0361ede8da0127ef7c7.jpg",
+    "static/media/skill.png": "/inventory/static/media/skill.21c7a25264fdbb965f29.png",
+    "index.html": "/inventory/index.html",
+    "main.caad9d92.css.map": "/inventory/static/css/main.caad9d92.css.map",
+    "main.7ce93812.js.map": "/inventory/static/js/main.7ce93812.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.caad9d92.css",
+    "static/js/main.7ce93812.js"
+  ]
+}
