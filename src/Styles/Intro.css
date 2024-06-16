@@ -1,0 +1,33 @@
+/* Add this CSS to your stylesheet (e.g., Intro.css) */
+
+.car-row{
+    background-color: black;
+    padding: 5em 2em;
+}
+
+.car-row{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.car-row h1{
+    font-family: 'Montserrat', sans-serif;
+  font-weight: 700; /* Ensures Montserrat is bold */
+}
+
+.carousel {
+    height: 20em;
+  }
+  
+  .carousel-inner {
+    width: 100%; /* Adjust this as needed */
+    max-width: 600px; /* Example max-width, adjust based on your needs */
+    margin: auto; /* Horizontally center the carousel */
+    height: 20em;
+  }
+  
+  .carousel-item img {
+    max-width: 100%; /* Ensure the image is responsive and fits within the container */
+    height: auto; /* Maintain aspect ratio */
+    margin: auto; /* Center the image if it's not as wide as the container */
+  }

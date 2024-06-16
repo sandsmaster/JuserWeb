@@ -5,7 +5,7 @@ function Footer() {
     <div className="row footer p-3">
       <p className="col-md-4"></p>
       <div className="col-md-4 text-center">
-        <h3>Thanks for coming</h3>
+        <h3>We are ready to help</h3>
         <p>
           Call us at:
           <br /> JuserRepairs@gmail.com <br />

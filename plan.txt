@@ -1,6 +1,13 @@
 Main page
-    +1. Header menu
-    +2. Cool background
-    +3. Skills
-    4. Short description of the carpenters
-    5. Footer
+    - Structure
+        + Header menu
+        - Images of the work and carpenters
+        - Request contact
+        + Introduction
+        + Skills
+        - Short description of the carpenters
+        - Images of professional work (own/stock Images) and description
+        - Request contact
+        + Footer
+    - Styles
+        + Cool background

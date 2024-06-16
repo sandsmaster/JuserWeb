@@ -3,6 +3,10 @@ Header {
     transition-duration: 1s;
 }
 
+#navbarNav {
+    width: 100%;
+}
+
 .nav-item{
     font-size: large;
 }

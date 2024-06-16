@@ -4,11 +4,14 @@ import "../Styles/Info.css";
 export default function Info() {
   return (
     <div className="container">
-      <h1>Welcome to Juser Carpentry Services </h1>
-      <p>
-        Need a reliable carpenter who can fix just about anything around your
-        home? You’ve come to the right place! At Juser Carpentry Services, we
-        take care of all your home improvement and repair needs.
+      <h1 className="text-center mb-4">Welcome to Juser Carpentry Services </h1>
+      <p className="lead">
+        Welcome! We're a skilled team of carpenters and repair specialists,
+        dedicated to bringing your visions to life. From custom carpentry to
+        home repairs, we provide high-quality services tailored to your needs.
+        Explore our site to see our craftsmanship and don't hesitate to reach
+        out with your project ideas. We're here to help you transform your
+        space.
       </p>
       <div className="row">
         <div className="skill card card-body m-3 col-sm-2 text-center">

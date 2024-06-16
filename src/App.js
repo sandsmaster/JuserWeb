@@ -2,12 +2,15 @@ import "./App.css";
 import Header from "./Components/HeaderMenu.js";
 import Info from "./Components/Info.js";
 import Footer from "./Components/Footer.js";
+import IntroImages from "./Components/Intro.js";
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
       <Info />
+      <IntroImages />
+
       <Footer />
     </div>
   );
