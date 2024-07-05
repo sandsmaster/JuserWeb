@@ -1,9 +1,17 @@
 import skillImg from "../skill.png";
 import "../Styles/Info.css";
+import images from "../Media/Images/Imports";
 
 export default function Info() {
   return (
     <div className="container">
+      <div className="row">
+        <img
+          src={images[0]}
+          alt="Main Greeting image"
+          className="mimg img-fluid mx-auto col-3"
+        />
+      </div>
       <h1 className="text-center mb-4">Welcome to Juser Carpentry Services </h1>
       <p className="lead">
         Welcome! We're a skilled team of carpenters and repair specialists,
